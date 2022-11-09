@@ -48,5 +48,3 @@ for album in album_repository.select_all():
     print(album.__dict__)
 
 pdb.set_trace()
-
-
